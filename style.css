@@ -40,7 +40,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://imgur.com/Y5JJgEP.png) no-repeat;
+    background: url(https://imgur.com/6KVD4TV.png) no-repeat;
     opacity: 0;
 }
 
@@ -88,7 +88,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(ps4-assets/meta.svgz) no-repeat center;
+    background: url(https://imgur.com/jzqguZt.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
