@@ -1,6 +1,6 @@
-# gamepadviewer_purple
+# gamepadviewer_custom
 
-A custom purple skin for the ps4 controller in [gamepadviewer](http://gamepadviewer.com/) by mrmcpowned.
+A collection of cutsom skins for the ps4 controller in [gamepadviewer](http://gamepadviewer.com/) by mrmcpowned.
 
 To use, copy the contents of `style.css` and paste in the `Custom CSS` field under Browser in OBS. 
 This skin will only work with the standard, black skin for the PS4 controller. 
